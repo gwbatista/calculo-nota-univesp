@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculo-nota-univesp/static/css/main.e62d500b.css",
+    "main.js": "/calculo-nota-univesp/static/js/main.c6c43f47.js",
+    "static/js/453.d85835ca.chunk.js": "/calculo-nota-univesp/static/js/453.d85835ca.chunk.js",
+    "static/media/logo.png": "/calculo-nota-univesp/static/media/logo.8511e5d28ed1ad6d0646.png",
+    "index.html": "/calculo-nota-univesp/index.html",
+    "main.e62d500b.css.map": "/calculo-nota-univesp/static/css/main.e62d500b.css.map",
+    "main.c6c43f47.js.map": "/calculo-nota-univesp/static/js/main.c6c43f47.js.map",
+    "453.d85835ca.chunk.js.map": "/calculo-nota-univesp/static/js/453.d85835ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62d500b.css",
+    "static/js/main.c6c43f47.js"
+  ]
+}
