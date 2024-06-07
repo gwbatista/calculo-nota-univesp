@@ -15,5 +15,5 @@ Sistema para calculo da média final (prova + atividades) da faculdade UNIVESP
 
 ## Link de acesso
 
-https://calculo-nota-univesp-pe9ydl0on.vercel.app/
+https://calculo-nota-un-git-947482-guilherme-watanabe-batistas-projects.vercel.app/
 
